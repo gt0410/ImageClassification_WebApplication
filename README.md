@@ -1,0 +1,2 @@
+# ImageClassification_WebApplication
+An image classifier is built to identify the class of the leaves in given image. The classifier identifies if the leaves in given image are healthy or Angular leaf or bean rust. MobileNet model is used for feature extraction. Transfer learning method is applied to pre-trained MobileNet model.  The model is tested in real-time using a web application built using Streamlit. The web application takes the image url from the user and gives the predicted class..
